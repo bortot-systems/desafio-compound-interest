@@ -4,7 +4,7 @@ import './style.css'
 
 const Footer = () => (
   <footer>
-    <p>Criador por Murillo Augusto Bortot Coelho - React</p>
+    <p>Criado por Murillo Augusto Bortot Coelho - React</p>
   </footer>
 )
 
